@@ -1,5 +1,9 @@
 # Sistem Inventori Gudang - UAS Struktur Data
 
+nama : Laraswati
+Nim : 25416255201021
+Kelas : IF25B
+
 ### Deskripsi
 Aplikasi manajemen inventori gudang berbasis CLI menggunakan file CSV sebagai database. Dibuat untuk memenuhi UAS mata kuliah Struktur Data.
 
