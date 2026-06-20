@@ -1,7 +1,9 @@
 # Sistem Inventori Gudang - UAS Struktur Data
 
-nama : Laraswati
+Nama : Laraswati
+
 Nim : 25416255201021
+
 Kelas : IF25B
 
 ### Deskripsi
