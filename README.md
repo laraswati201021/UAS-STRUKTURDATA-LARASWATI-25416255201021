@@ -19,4 +19,7 @@ Aplikasi manajemen inventori gudang berbasis CLI menggunakan file CSV sebagai da
 3. File `inventori.csv` akan otomatis dibuat saat pertama kali dijalankan
 
 ### Flowchart
-Lihat file `flowchart.png`
+Lihat file `flowchart.png
+
+![Flowchart Sistem](Flowchart.png)
+`
